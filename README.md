@@ -75,9 +75,9 @@ The object-object relationships encoding is in `HSPNav/knowledge/relationship_en
 
 The command to train the HSPNav model:
 ```
-python train_agent.py --cmplt 
-    --cmplt_pretrained /local/crv/yiqing/result/train_cmplt_resized/17_cd.pth
-    --conf --conf_pretrained /local/crv/yiqing/result/train_conf_4/14_fd.pth               
+python train_agent.py --cmplt
+    --cmplt_pretrained /HSPNav/pretrained/cmplt.pth 
+    --conf --conf_pretrained /HSPNav/pretrained/conf.pth              
 ```
 ### Evaluating a Navigation Model
 
