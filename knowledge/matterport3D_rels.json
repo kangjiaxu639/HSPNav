@@ -1,0 +1,1510 @@
+{
+  "appliances": {
+    "appliances": {
+      "sitting on": 2
+    },
+    "cabinet": {
+      "under": 6
+    },
+    "counter": {
+      "on": 23
+    },
+    "door": {
+      "has": 3
+    },
+    "mirror": {
+      "with": 1
+    },
+    "sink": {
+      "over": 1
+    },
+    "table": {
+      "on": 1
+    },
+    "toilet": {
+      "near": 1
+    }
+  },
+  "bathtub": {
+    "cabinet": {
+      "near": 1
+    },
+    "counter": {
+      "near": 1
+    },
+    "curtain": {
+      "behind": 1
+    },
+    "door": {
+      "has": 1
+    },
+    "mirror": {
+      "in": 4
+    },
+    "shower": {
+      "in": 2
+    },
+    "sink": {
+      "near": 4
+    },
+    "table": {
+      "reflected in": 1
+    },
+    "toilet": {
+      "near": 11
+    },
+    "towel": {
+      "has": 1
+    },
+    "window": {
+      "near": 3
+    }
+  },
+  "beam": {
+    "beam": {
+      "in": 1
+    },
+    "bed": {
+      "for": 3
+    },
+    "ceiling": {
+      "on": 42
+    },
+    "door": {
+      "over": 1
+    },
+    "shower": {
+      "on": 1
+    },
+    "table": {
+      "near": 1
+    },
+    "window": {
+      "between": 3
+    }
+  },
+  "bed": {
+    "bed": {
+      "near": 23
+    },
+    "cabinet": {
+      "has": 1
+    },
+    "chair": {
+      "near": 3
+    },
+    "clothes": {
+      "with": 1
+    },
+    "counter": {
+      "sitting next to": 1
+    },
+    "curtain": {
+      "near": 3
+    },
+    "cushion": {
+      "has": 2
+    },
+    "door": {
+      "near": 2
+    },
+    "fireplace": {
+      "near": 2
+    },
+    "mirror": {
+      "in": 7
+    },
+    "picture": {
+      "in": 1
+    },
+    "railing": {
+      "has": 1
+    },
+    "sink": {
+      "near": 1
+    },
+    "sofa": {
+      "above": 1
+    },
+    "stairs": {
+      "has": 1
+    },
+    "table": {
+      "near": 9
+    },
+    "window": {
+      "near": 18
+    }
+  },
+  "blinds": {
+    "bed": {
+      "behind": 2
+    },
+    "blinds": {
+      "near": 1
+    },
+    "ceiling": {
+      "near": 1
+    },
+    "chair": {
+      "near": 1
+    },
+    "curtain": {
+      "behind": 3
+    },
+    "door": {
+      "on": 28
+    },
+    "mirror": {
+      "behind": 2
+    },
+    "sink": {
+      "above": 2
+    },
+    "table": {
+      "behind": 1
+    },
+    "toilet": {
+      "above": 1
+    },
+    "window": {
+      "on": 518
+    }
+  },
+  "cabinet": {
+    "appliances": {
+      "contains": 1
+    },
+    "bed": {
+      "near": 11
+    },
+    "cabinet": {
+      "near": 20
+    },
+    "ceiling": {
+      "in": 1
+    },
+    "chair": {
+      "between": 1
+    },
+    "clothes": {
+      "stores": 3
+    },
+    "counter": {
+      "above": 59
+    },
+    "curtain": {
+      "near": 1
+    },
+    "door": {
+      "has": 207
+    },
+    "fireplace": {
+      "near": 1
+    },
+    "furniture": {
+      "on": 2
+    },
+    "lighting": {
+      "with": 1
+    },
+    "mirror": {
+      "has": 13
+    },
+    "objects": {
+      "has": 1
+    },
+    "picture": {
+      "in": 2
+    },
+    "plant": {
+      "has": 1
+    },
+    "sink": {
+      "under": 136
+    },
+    "sofa": {
+      "near": 1
+    },
+    "table": {
+      "behind": 3
+    },
+    "toilet": {
+      "above": 9
+    },
+    "window": {
+      "with": 3
+    }
+  },
+  "ceiling": {
+    "beam": {
+      "has": 1
+    },
+    "bed": {
+      "above": 2
+    },
+    "chair": {
+      "above": 1
+    },
+    "column": {
+      "supporting": 1
+    },
+    "door": {
+      "with": 1
+    },
+    "lighting": {
+      "has": 7
+    },
+    "mirror": {
+      "in": 1
+    },
+    "plant": {
+      "above": 1
+    },
+    "shower": {
+      "in": 1
+    },
+    "table": {
+      "above": 2
+    },
+    "toilet": {
+      "above": 1
+    },
+    "window": {
+      "with": 5
+    }
+  },
+  "chair": {
+    "bathtub": {
+      "near": 1
+    },
+    "bed": {
+      "near": 55
+    },
+    "cabinet": {
+      "near": 5
+    },
+    "chair": {
+      "near": 59
+    },
+    "clothes": {
+      "has": 2
+    },
+    "column": {
+      "near": 4
+    },
+    "counter": {
+      "at": 18
+    },
+    "curtain": {
+      "near": 4
+    },
+    "cushion": {
+      "has": 121
+    },
+    "door": {
+      "near": 11
+    },
+    "fireplace": {
+      "near": 10
+    },
+    "mirror": {
+      "reflected in": 3
+    },
+    "picture": {
+      "in": 5
+    },
+    "plant": {
+      "near": 10
+    },
+    "railing": {
+      "near": 2
+    },
+    "seating": {
+      "near": 1
+    },
+    "shower": {
+      "in": 3
+    },
+    "sink": {
+      "in front of": 2
+    },
+    "sofa": {
+      "near": 12
+    },
+    "stairs": {
+      "near": 2
+    },
+    "stool": {
+      "with": 2
+    },
+    "table": {
+      "near": 748
+    },
+    "toilet": {
+      "near": 3
+    },
+    "towel": {
+      "with": 13
+    },
+    "window": {
+      "near": 98
+    }
+  },
+  "clothes": {
+    "bed": {
+      "on": 50
+    },
+    "cabinet": {
+      "in": 5
+    },
+    "ceiling": {
+      "handing from": 1
+    },
+    "chair": {
+      "on": 9
+    },
+    "door": {
+      "on": 2
+    },
+    "railing": {
+      "hanging from": 4
+    },
+    "sofa": {
+      "on": 2
+    },
+    "stairs": {
+      "on": 1
+    },
+    "table": {
+      "on": 9
+    },
+    "toilet": {
+      "in": 1
+    },
+    "window": {
+      "in": 4
+    }
+  },
+  "column": {
+    "bed": {
+      "near": 3
+    },
+    "ceiling": {
+      "supporting": 4
+    },
+    "counter": {
+      "near": 1
+    },
+    "door": {
+      "in front of": 10
+    },
+    "fireplace": {
+      "near": 1
+    },
+    "mirror": {
+      "atop": 1
+    },
+    "plant": {
+      "has": 1
+    },
+    "railing": {
+      "atop": 2
+    },
+    "sofa": {
+      "near": 3
+    },
+    "stairs": {
+      "above": 1
+    },
+    "table": {
+      "holding up": 1
+    },
+    "toilet": {
+      "near": 2
+    },
+    "window": {
+      "near": 15
+    }
+  },
+  "counter": {
+    "appliances": {
+      "under": 3
+    },
+    "bathtub": {
+      "on": 1
+    },
+    "bed": {
+      "near": 1
+    },
+    "cabinet": {
+      "on": 8
+    },
+    "counter": {
+      "above": 1
+    },
+    "door": {
+      "near": 2
+    },
+    "mirror": {
+      "under": 3
+    },
+    "picture": {
+      "has": 1
+    },
+    "plant": {
+      "under": 1
+    },
+    "shower": {
+      "near": 2
+    },
+    "sink": {
+      "near": 17
+    },
+    "stool": {
+      "near": 2
+    },
+    "table": {
+      "near": 3
+    },
+    "toilet": {
+      "near": 5
+    },
+    "window": {
+      "near": 8
+    }
+  },
+  "curtain": {
+    "bathtub": {
+      "in": 6
+    },
+    "bed": {
+      "near": 18
+    },
+    "blinds": {
+      "over": 2
+    },
+    "cabinet": {
+      "sitting next to": 1
+    },
+    "ceiling": {
+      "hanging from": 2
+    },
+    "chair": {
+      "behind": 6
+    },
+    "counter": {
+      "on": 1
+    },
+    "curtain": {
+      "covering": 5
+    },
+    "door": {
+      "on": 18
+    },
+    "mirror": {
+      "in": 5
+    },
+    "plant": {
+      "behind": 4
+    },
+    "shower": {
+      "for": 12
+    },
+    "sink": {
+      "under": 3
+    },
+    "sofa": {
+      "behind": 1
+    },
+    "table": {
+      "behind": 5
+    },
+    "toilet": {
+      "near": 8
+    },
+    "window": {
+      "on": 686
+    }
+  },
+  "cushion": {
+    "bed": {
+      "on": 17
+    },
+    "blinds": {
+      "in front of": 1
+    },
+    "chair": {
+      "on": 160
+    },
+    "cushion": {
+      "with": 4
+    },
+    "furniture": {
+      "on": 17
+    },
+    "sofa": {
+      "on": 53
+    },
+    "stool": {
+      "on": 7
+    },
+    "table": {
+      "near": 4
+    },
+    "toilet": {
+      "on": 1
+    },
+    "window": {
+      "near": 1
+    }
+  },
+  "door": {
+    "appliances": {
+      "of": 1
+    },
+    "bathtub": {
+      "on": 1
+    },
+    "bed": {
+      "near": 7
+    },
+    "blinds": {
+      "has": 5
+    },
+    "cabinet": {
+      "on": 163
+    },
+    "ceiling": {
+      "with": 1
+    },
+    "chair": {
+      "behind": 2
+    },
+    "column": {
+      "near": 1
+    },
+    "counter": {
+      "on": 3
+    },
+    "curtain": {
+      "has": 7
+    },
+    "door": {
+      "near": 5
+    },
+    "fireplace": {
+      "near": 2
+    },
+    "mirror": {
+      "in": 37
+    },
+    "picture": {
+      "in": 1
+    },
+    "plant": {
+      "near": 3
+    },
+    "railing": {
+      "behind": 3
+    },
+    "shower": {
+      "of": 20
+    },
+    "sink": {
+      "under": 20
+    },
+    "sofa": {
+      "on": 2
+    },
+    "stairs": {
+      "has": 1
+    },
+    "table": {
+      "near": 4
+    },
+    "toilet": {
+      "near": 6
+    },
+    "towel": {
+      "has": 1
+    },
+    "window": {
+      "has": 129
+    }
+  },
+  "fireplace": {
+    "bed": {
+      "near": 2
+    },
+    "ceiling": {
+      "to": 1
+    },
+    "chair": {
+      "behind": 3
+    },
+    "counter": {
+      "behind": 1
+    },
+    "door": {
+      "has": 2
+    },
+    "fireplace": {
+      "in front of": 1
+    },
+    "mirror": {
+      "under": 2
+    },
+    "picture": {
+      "has": 1
+    },
+    "sofa": {
+      "in front of": 1
+    },
+    "table": {
+      "behind": 3
+    },
+    "window": {
+      "to left of": 1
+    }
+  },
+  "furniture": {
+    "bed": {
+      "near": 2
+    },
+    "door": {
+      "to right of": 1
+    },
+    "fireplace": {
+      "near": 2
+    },
+    "railing": {
+      "against": 1
+    },
+    "window": {
+      "against": 4
+    }
+  },
+  "lighting": {
+    "beam": {
+      "on": 1
+    },
+    "cabinet": {
+      "under": 3
+    },
+    "ceiling": {
+      "on": 37
+    },
+    "counter": {
+      "above": 1
+    },
+    "fireplace": {
+      "above": 2
+    },
+    "lighting": {
+      "hanging": 1
+    },
+    "mirror": {
+      "above": 2
+    },
+    "seating": {
+      "above": 1
+    },
+    "shower": {
+      "in": 2
+    },
+    "table": {
+      "on": 1
+    },
+    "window": {
+      "above": 1
+    }
+  },
+  "mirror": {
+    "bathtub": {
+      "near": 4
+    },
+    "beam": {
+      "leaning on": 1
+    },
+    "bed": {
+      "above": 8
+    },
+    "cabinet": {
+      "on": 15
+    },
+    "ceiling": {
+      "on": 5
+    },
+    "chair": {
+      "above": 1
+    },
+    "counter": {
+      "above": 25
+    },
+    "curtain": {
+      "reflecting": 2
+    },
+    "door": {
+      "on": 33
+    },
+    "fireplace": {
+      "above": 23
+    },
+    "furniture": {
+      "on": 2
+    },
+    "mirror": {
+      "above": 7
+    },
+    "objects": {
+      "behind": 1
+    },
+    "picture": {
+      "in": 1
+    },
+    "plant": {
+      "under": 1
+    },
+    "shower": {
+      "in": 2
+    },
+    "sink": {
+      "above": 325
+    },
+    "sofa": {
+      "above": 1
+    },
+    "stairs": {
+      "displays": 1
+    },
+    "table": {
+      "on": 10
+    },
+    "toilet": {
+      "above": 6
+    },
+    "towel": {
+      "reflecting": 3
+    },
+    "window": {
+      "near": 5
+    }
+  },
+  "objects": {
+    "bed": {
+      "above": 1
+    },
+    "ceiling": {
+      "hanging from": 1
+    },
+    "chair": {
+      "under": 1
+    },
+    "column": {
+      "laying against": 1
+    },
+    "counter": {
+      "on": 11
+    },
+    "curtain": {
+      "behind": 1
+    },
+    "door": {
+      "tacked to": 5
+    },
+    "fireplace": {
+      "on": 2
+    },
+    "mirror": {
+      "in": 3
+    },
+    "objects": {
+      "next": 1
+    },
+    "picture": {
+      "on": 4
+    },
+    "plant": {
+      "hanging": 1
+    },
+    "sink": {
+      "on edge of": 2
+    },
+    "table": {
+      "on": 71
+    },
+    "toilet": {
+      "on": 6
+    },
+    "window": {
+      "on": 2
+    }
+  },
+  "picture": {
+    "bathtub": {
+      "hanging above": 1
+    },
+    "beam": {
+      "hanging from": 1
+    },
+    "bed": {
+      "above": 46
+    },
+    "cabinet": {
+      "on": 7
+    },
+    "ceiling": {
+      "on": 3
+    },
+    "chair": {
+      "above": 3
+    },
+    "counter": {
+      "on": 8
+    },
+    "curtain": {
+      "near": 2
+    },
+    "door": {
+      "on": 14
+    },
+    "fireplace": {
+      "above": 26
+    },
+    "mirror": {
+      "in": 8
+    },
+    "picture": {
+      "on": 5
+    },
+    "plant": {
+      "near": 2
+    },
+    "sink": {
+      "above": 2
+    },
+    "sofa": {
+      "above": 3
+    },
+    "stairs": {
+      "going up": 1
+    },
+    "table": {
+      "on": 103
+    },
+    "toilet": {
+      "above": 12
+    },
+    "towel": {
+      "over": 2
+    },
+    "window": {
+      "in": 27
+    }
+  },
+  "plant": {
+    "bathtub": {
+      "near": 1
+    },
+    "beam": {
+      "on": 2
+    },
+    "bed": {
+      "near": 3
+    },
+    "cabinet": {
+      "on": 20
+    },
+    "ceiling": {
+      "hanging from": 15
+    },
+    "chair": {
+      "behind": 10
+    },
+    "column": {
+      "near": 4
+    },
+    "counter": {
+      "on": 41
+    },
+    "curtain": {
+      "near": 1
+    },
+    "door": {
+      "near": 17
+    },
+    "fireplace": {
+      "near": 5
+    },
+    "mirror": {
+      "in": 2
+    },
+    "objects": {
+      "on": 1
+    },
+    "picture": {
+      "at": 1
+    },
+    "plant": {
+      "over": 4
+    },
+    "railing": {
+      "on": 5
+    },
+    "shower": {
+      "hanging over": 1
+    },
+    "sink": {
+      "on": 4
+    },
+    "sofa": {
+      "near": 1
+    },
+    "stairs": {
+      "underneath": 1
+    },
+    "stool": {
+      "on": 3
+    },
+    "table": {
+      "on": 141
+    },
+    "toilet": {
+      "in": 6
+    },
+    "window": {
+      "near": 66
+    }
+  },
+  "railing": {
+    "bed": {
+      "near": 15
+    },
+    "cabinet": {
+      "along": 1
+    },
+    "ceiling": {
+      "on": 1
+    },
+    "chair": {
+      "behind": 2
+    },
+    "column": {
+      "between": 4
+    },
+    "counter": {
+      "along": 1
+    },
+    "door": {
+      "near": 6
+    },
+    "objects": {
+      "in front": 4
+    },
+    "plant": {
+      "behind": 1
+    },
+    "railing": {
+      "on": 3
+    },
+    "shower": {
+      "on": 1
+    },
+    "sink": {
+      "on": 1
+    },
+    "stairs": {
+      "on": 36
+    },
+    "table": {
+      "behind": 2
+    },
+    "toilet": {
+      "behind": 3
+    },
+    "window": {
+      "outside": 15
+    }
+  },
+  "seating": {
+    "table": {
+      "at": 1
+    }
+  },
+  "shelving": {
+    "bed": {
+      "near": 1
+    },
+    "cabinet": {
+      "above": 1
+    },
+    "door": {
+      "on": 1
+    },
+    "objects": {
+      "beneath": 1
+    },
+    "toilet": {
+      "near": 1
+    },
+    "window": {
+      "on": 1
+    }
+  },
+  "shower": {
+    "bathtub": {
+      "near": 2
+    },
+    "bed": {
+      "near": 1
+    },
+    "curtain": {
+      "has": 16
+    },
+    "door": {
+      "has": 29
+    },
+    "mirror": {
+      "reflected in": 8
+    },
+    "sink": {
+      "near": 3
+    },
+    "toilet": {
+      "near": 7
+    },
+    "towel": {
+      "near": 1
+    },
+    "window": {
+      "has": 1
+    }
+  },
+  "sink": {
+    "bathtub": {
+      "near": 4
+    },
+    "cabinet": {
+      "on": 10
+    },
+    "chair": {
+      "behind": 1
+    },
+    "counter": {
+      "on": 154
+    },
+    "curtain": {
+      "next": 1
+    },
+    "door": {
+      "behind": 1
+    },
+    "mirror": {
+      "under": 36
+    },
+    "picture": {
+      "in": 1
+    },
+    "plant": {
+      "under": 1
+    },
+    "shower": {
+      "near": 3
+    },
+    "sink": {
+      "near": 10
+    },
+    "table": {
+      "on": 5
+    },
+    "toilet": {
+      "near": 48
+    },
+    "towel": {
+      "with": 3
+    },
+    "window": {
+      "under": 10
+    }
+  },
+  "sofa": {
+    "bed": {
+      "near": 1
+    },
+    "cabinet": {
+      "near": 1
+    },
+    "chair": {
+      "near": 3
+    },
+    "clothes": {
+      "with": 1
+    },
+    "counter": {
+      "beyond": 1
+    },
+    "curtain": {
+      "in front of": 1
+    },
+    "cushion": {
+      "has": 17
+    },
+    "fireplace": {
+      "to right of": 1
+    },
+    "picture": {
+      "in": 1
+    },
+    "sofa": {
+      "to right of": 1
+    },
+    "table": {
+      "near": 8
+    },
+    "window": {
+      "in front of": 16
+    }
+  },
+  "stairs": {
+    "chair": {
+      "near": 3
+    },
+    "door": {
+      "leading to": 14
+    },
+    "picture": {
+      "in": 1
+    },
+    "railing": {
+      "has": 11
+    },
+    "sofa": {
+      "behind": 1
+    },
+    "stairs": {
+      "on": 1
+    },
+    "window": {
+      "under": 2
+    }
+  },
+  "stool": {
+    "bed": {
+      "near": 3
+    },
+    "cabinet": {
+      "on": 1
+    },
+    "chair": {
+      "near": 4
+    },
+    "counter": {
+      "near": 25
+    },
+    "cushion": {
+      "has": 5
+    },
+    "door": {
+      "in": 1
+    },
+    "plant": {
+      "behind": 1
+    },
+    "sink": {
+      "under": 4
+    },
+    "sofa": {
+      "near": 3
+    },
+    "stool": {
+      "near": 14
+    },
+    "table": {
+      "near": 15
+    },
+    "toilet": {
+      "near": 1
+    },
+    "towel": {
+      "under": 1
+    },
+    "window": {
+      "near": 3
+    }
+  },
+  "table": {
+    "appliances": {
+      "on": 1
+    },
+    "bathtub": {
+      "near": 3
+    },
+    "bed": {
+      "near": 182
+    },
+    "ceiling": {
+      "near": 1
+    },
+    "chair": {
+      "with": 136
+    },
+    "clothes": {
+      "has": 1
+    },
+    "column": {
+      "has": 1
+    },
+    "counter": {
+      "on": 15
+    },
+    "curtain": {
+      "with": 1
+    },
+    "door": {
+      "near": 9
+    },
+    "fireplace": {
+      "in front of": 3
+    },
+    "furniture": {
+      "near": 2
+    },
+    "mirror": {
+      "in front of": 3
+    },
+    "objects": {
+      "with": 4
+    },
+    "picture": {
+      "in": 3
+    },
+    "plant": {
+      "with": 3
+    },
+    "seating": {
+      "in": 1
+    },
+    "sink": {
+      "near": 3
+    },
+    "sofa": {
+      "near": 28
+    },
+    "stairs": {
+      "leaning on": 1
+    },
+    "stool": {
+      "with": 2
+    },
+    "table": {
+      "on": 17
+    },
+    "toilet": {
+      "near": 2
+    },
+    "towel": {
+      "with": 3
+    },
+    "window": {
+      "near": 45
+    }
+  },
+  "toilet": {
+    "bathtub": {
+      "near": 11
+    },
+    "bed": {
+      "end of": 1
+    },
+    "blinds": {
+      "near": 2
+    },
+    "cabinet": {
+      "near": 8
+    },
+    "counter": {
+      "near": 5
+    },
+    "curtain": {
+      "near": 2
+    },
+    "door": {
+      "has": 4
+    },
+    "mirror": {
+      "in": 6
+    },
+    "plant": {
+      "has": 5
+    },
+    "shelving": {
+      "near": 2
+    },
+    "shower": {
+      "near": 13
+    },
+    "sink": {
+      "near": 22
+    },
+    "stool": {
+      "white": 1
+    },
+    "table": {
+      "near": 2
+    },
+    "toilet": {
+      "near": 11
+    },
+    "towel": {
+      "under": 4
+    },
+    "window": {
+      "near": 9
+    }
+  },
+  "towel": {
+    "bathtub": {
+      "on": 39
+    },
+    "bed": {
+      "on": 58
+    },
+    "cabinet": {
+      "on": 6
+    },
+    "chair": {
+      "on": 68
+    },
+    "counter": {
+      "on": 101
+    },
+    "curtain": {
+      "on": 1
+    },
+    "door": {
+      "hanging from": 32
+    },
+    "mirror": {
+      "in": 25
+    },
+    "picture": {
+      "in": 1
+    },
+    "railing": {
+      "on": 4
+    },
+    "shower": {
+      "on": 12
+    },
+    "sink": {
+      "on": 43
+    },
+    "sofa": {
+      "in side of": 1
+    },
+    "stool": {
+      "on": 3
+    },
+    "table": {
+      "on": 48
+    },
+    "toilet": {
+      "on": 11
+    },
+    "towel": {
+      "on": 8
+    },
+    "window": {
+      "under": 2
+    }
+  },
+  "tv_monitor": {
+    "bed": {
+      "over": 1
+    }
+  },
+  "window": {
+    "appliances": {
+      "of": 1
+    },
+    "bathtub": {
+      "above": 18
+    },
+    "bed": {
+      "near": 33
+    },
+    "blinds": {
+      "has": 107
+    },
+    "cabinet": {
+      "on": 11
+    },
+    "ceiling": {
+      "in": 31
+    },
+    "chair": {
+      "behind": 14
+    },
+    "column": {
+      "behind": 2
+    },
+    "counter": {
+      "above": 12
+    },
+    "curtain": {
+      "has": 202
+    },
+    "door": {
+      "on": 303
+    },
+    "fireplace": {
+      "near": 5
+    },
+    "furniture": {
+      "behind": 3
+    },
+    "lighting": {
+      "providing": 1
+    },
+    "mirror": {
+      "reflected in": 14
+    },
+    "objects": {
+      "has": 1
+    },
+    "picture": {
+      "in": 6
+    },
+    "plant": {
+      "with": 11
+    },
+    "railing": {
+      "has": 3
+    },
+    "shower": {
+      "in": 12
+    },
+    "sink": {
+      "above": 98
+    },
+    "sofa": {
+      "behind": 11
+    },
+    "stairs": {
+      "under": 1
+    },
+    "stool": {
+      "behind": 1
+    },
+    "table": {
+      "behind": 24
+    },
+    "toilet": {
+      "above": 18
+    },
+    "window": {
+      "near": 102
+    }
+  }
+}
