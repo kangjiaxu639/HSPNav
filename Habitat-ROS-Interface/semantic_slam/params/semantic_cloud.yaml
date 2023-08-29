@@ -1,0 +1,19 @@
+# Camera intrinsic matrix parameters (OpenCV)
+camera:
+  #fx: 615.6707153320312
+  #fy: 615.962158203125
+  #cx: 328.0010681152344
+  #cy: 241.31031799316406
+  fx: 205.46964
+  fy: 205.46964
+  cx: 320.5
+  cy: 240.5
+  width: 640
+  height: 480
+semantic_pcl:
+  color_image_topic: "/rgbd_camera/color/image"
+  depth_image_topic: "/rgbd_camera/depth/image"
+  point_type: 2
+  frame_id: "/rgbd_camera" 
+  dataset: "MP3D" # sunrgbd
+  model_path: "/home/ros/kjx/semantic_ws/src/semantic_cloud/models/final_seg.pth"

@@ -1,0 +1,8 @@
+# 客户端发送的图片
+sensor_msgs/Image local_map
+sensor_msgs/Image global_map
+string target
+---
+# 服务器发送的waypoint坐标
+float64 x
+float64 y
