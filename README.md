@@ -92,6 +92,9 @@ The command to evaluate the HSPNav model with ACNet semantic segmentation output
 python test_agent.py --user_semantics --seg_pretrained /HSPNav/pretrained/final_seg.pth --Q_pretrained /HSPNav/result/hspnav.pth --cmplt --cmplt_pretrained /HSPNav/pretrained/cmplt_seg.pth --conf --conf_pretrained /HSPNav/pretrained/conf_seg.pth 
 ```
 
+### Evaluating the robot running in ROS
+Following the instruction [here](https://github.com/kangjiaxu639/HSPNav/blob/master/Habitat-ROS-Interface/README.md)
+
 ## License
 
 This repository is released under the MIT license. See [LICENSE](LICENSE) for additional details.
